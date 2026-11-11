@@ -1,1 +1,1 @@
-Created a python file to print "Hello World" inside jupyter website
+Created a python file and printed "Hello World" in python inside jupyter website
